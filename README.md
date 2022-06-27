@@ -37,6 +37,9 @@
 <img src="https://user-images.githubusercontent.com/33627638/174435038-2f0b699e-01d3-43a3-98c5-c1490f105aeb.png" width="300" height="300" />
 </div>
 
+- Fancy geenrated image
+
+![8081d4f0-0f27-4eec-9776-a7dc5d5b77e3](https://user-images.githubusercontent.com/33627638/175891363-5d50806c-1f82-4237-a6db-54ae320e300e.jpg)
 
 
 
