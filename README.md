@@ -1,4 +1,8 @@
 # autoencoder_perceptual_loss
+- Using the pre-trained AutoEncoder trained on ImageNet, encoded the images into embeddings on the latent space.
+- Applied the vector difference of two images with different conditions like dry and wet, transparency, to the latent vector of the input image, and generated the new image
+- Calculated the LPIPS(Learned Perceptual Image Patch Similarity) distance of images of the latent vectors added by different Gaussian noise, and compared with human evaluation
+- Framework & Language: PyTorch, Python
 
 <div align=center><img src="https://user-images.githubusercontent.com/33627638/174434047-01c9e7df-22b4-4905-9c7f-4c88733c2911.jpg" width="150" height="150" />
 <img src="https://user-images.githubusercontent.com/33627638/174434057-9f24356c-a47c-4fc9-b04e-8c674304d08a.jpg" width="150" height="150" />
